@@ -1,0 +1,11 @@
+{
+   " myArray":["eshan","ahmed","ahad",20,true,null],
+   "myOBJ":{"name": "eshan","age": 20,"prof": "programmer","country": "Bangladesh"},
+   "myStr": "Hello world",
+   "myNumber":20,
+   "myNullDATA": null,
+   "Bool": true
+  
+
+}
+
